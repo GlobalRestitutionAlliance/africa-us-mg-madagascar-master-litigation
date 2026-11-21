@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: madagascaran-restitution-roadmap-and-qsf-trust-execution
-  name: Madagascaran Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/madagascaran-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_mg_001
+    name: Madagascar Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_002
+    name: Madagascar Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_003
+    name: Madagascar Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_004
+    name: Madagascar Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_005
+    name: Madagascar Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_006
+    name: Madagascar Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_007
+    name: Madagascar Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_008
+    name: Madagascar Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_009
+    name: Madagascar Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_010
+    name: Madagascar Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_011
+    name: Madagascar Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_012
+    name: Madagascar Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_013
+    name: Madagascar Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_014
+    name: Madagascar Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_015
+    name: Madagascar Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_016
+    name: Madagascar Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_017
+    name: Madagascar Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_018
+    name: Madagascar Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_019
+    name: Madagascar Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_020
+    name: Madagascar Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_021
+    name: Madagascar Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_022
+    name: Madagascar Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_023
+    name: Madagascar Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_024
+    name: Madagascar Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_025
+    name: Madagascar Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_026
+    name: Madagascar Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_027
+    name: Madagascar Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_028
+    name: Madagascar Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_029
+    name: Madagascar Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_030
+    name: Madagascar Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_031
+    name: Madagascar Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_032
+    name: Madagascar Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_033
+    name: Madagascar Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_034
+    name: Madagascar Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_035
+    name: Madagascar Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_036
+    name: Madagascar Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_037
+    name: Madagascar Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_038
+    name: Madagascar Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_039
+    name: Madagascar Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_040
+    name: Madagascar Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_041
+    name: Madagascar Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_042
+    name: Madagascar Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_043
+    name: Madagascar Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_044
+    name: Madagascar Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_045
+    name: Madagascar Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_046
+    name: Madagascar Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_047
+    name: Madagascar Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_048
+    name: Madagascar Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_049
+    name: Madagascar Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_050
+    name: Madagascar Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_051
+    name: Madagascar Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_052
+    name: Madagascar Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_053
+    name: Madagascar Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_054
+    name: Madagascar Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_055
+    name: Madagascar Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_056
+    name: Madagascar Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_057
+    name: Madagascar Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_058
+    name: Madagascar Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_059
+    name: Madagascar Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_060
+    name: Madagascar Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_061
+    name: Madagascar Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_062
+    name: Madagascar Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_063
+    name: Madagascar Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_064
+    name: Madagascar Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_065
+    name: Madagascar Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_066
+    name: Madagascar Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_067
+    name: Madagascar Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_068
+    name: Madagascar Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_069
+    name: Madagascar Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_070
+    name: Madagascar Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_071
+    name: Madagascar Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_072
+    name: Madagascar Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_073
+    name: Madagascar Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_074
+    name: Madagascar Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_075
+    name: Madagascar Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_076
+    name: Madagascar Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_077
+    name: Madagascar Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_078
+    name: Madagascar Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_079
+    name: Madagascar Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_080
+    name: Madagascar Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_081
+    name: Madagascar Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_082
+    name: Madagascar Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_083
+    name: Madagascar Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_084
+    name: Madagascar Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_085
+    name: Madagascar Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_086
+    name: Madagascar Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_087
+    name: Madagascar Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_088
+    name: Madagascar Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_089
+    name: Madagascar Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_090
+    name: Madagascar Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_091
+    name: Madagascar Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_092
+    name: Madagascar Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_093
+    name: Madagascar Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_094
+    name: Madagascar Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_095
+    name: Madagascar Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_096
+    name: Madagascar Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_097
+    name: Madagascar Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_098
+    name: Madagascar Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_099
+    name: Madagascar Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_100
+    name: Madagascar Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_101
+    name: Madagascar Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_102
+    name: Madagascar Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_103
+    name: Madagascar Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_104
+    name: Madagascar Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_105
+    name: Madagascar Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_106
+    name: Madagascar Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_107
+    name: Madagascar Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_108
+    name: Madagascar Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_109
+    name: Madagascar Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_110
+    name: Madagascar Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_111
+    name: Madagascar Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_112
+    name: Madagascar Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_113
+    name: Madagascar Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_114
+    name: Madagascar Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_115
+    name: Madagascar Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_116
+    name: Madagascar Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_117
+    name: Madagascar Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_118
+    name: Madagascar Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_119
+    name: Madagascar Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_120
+    name: Madagascar Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_121
+    name: Madagascar Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_122
+    name: Madagascar Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_123
+    name: Madagascar Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_124
+    name: Madagascar Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_125
+    name: Madagascar Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_126
+    name: Madagascar Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_127
+    name: Madagascar Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_128
+    name: Madagascar Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_129
+    name: Madagascar Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_130
+    name: Madagascar Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_131
+    name: Madagascar Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_132
+    name: Madagascar Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_133
+    name: Madagascar Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_134
+    name: Madagascar Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_135
+    name: Madagascar Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_136
+    name: Madagascar Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_137
+    name: Madagascar Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_138
+    name: Madagascar Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_139
+    name: Madagascar Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_140
+    name: Madagascar Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_141
+    name: Madagascar Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_142
+    name: Madagascar Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_143
+    name: Madagascar Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_144
+    name: Madagascar Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_145
+    name: Madagascar Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_146
+    name: Madagascar Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_147
+    name: Madagascar Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_148
+    name: Madagascar Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_149
+    name: Madagascar Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_150
+    name: Madagascar Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_151
+    name: Madagascar Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_152
+    name: Madagascar Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_153
+    name: Madagascar Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_154
+    name: Madagascar Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_155
+    name: Madagascar Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_156
+    name: Madagascar Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_157
+    name: Madagascar Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_158
+    name: Madagascar Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_159
+    name: Madagascar Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_160
+    name: Madagascar Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_161
+    name: Madagascar Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_162
+    name: Madagascar Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_163
+    name: Madagascar Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_164
+    name: Madagascar Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_165
+    name: Madagascar Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_166
+    name: Madagascar Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_167
+    name: Madagascar Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_168
+    name: Madagascar Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_169
+    name: Madagascar Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_170
+    name: Madagascar Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_171
+    name: Madagascar Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_172
+    name: Madagascar Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_173
+    name: Madagascar Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_174
+    name: Madagascar Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_175
+    name: Madagascar Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_176
+    name: Madagascar Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_177
+    name: Madagascar Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_178
+    name: Madagascar Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_179
+    name: Madagascar Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_180
+    name: Madagascar Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_181
+    name: Madagascar Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_182
+    name: Madagascar Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_183
+    name: Madagascar Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_184
+    name: Madagascar Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_185
+    name: Madagascar Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_186
+    name: Madagascar Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_187
+    name: Madagascar Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_188
+    name: Madagascar Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_189
+    name: Madagascar Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_190
+    name: Madagascar Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_191
+    name: Madagascar Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_192
+    name: Madagascar Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_193
+    name: Madagascar Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_194
+    name: Madagascar Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_195
+    name: Madagascar Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_196
+    name: Madagascar Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_197
+    name: Madagascar Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_198
+    name: Madagascar Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_199
+    name: Madagascar Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_200
+    name: Madagascar Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_201
+    name: Madagascar Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_202
+    name: Madagascar Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_203
+    name: Madagascar Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_204
+    name: Madagascar Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_205
+    name: Madagascar Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_206
+    name: Madagascar Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_207
+    name: Madagascar Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_208
+    name: Madagascar Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_209
+    name: Madagascar Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_210
+    name: Madagascar Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_211
+    name: Madagascar Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_212
+    name: Madagascar Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_213
+    name: Madagascar Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_214
+    name: Madagascar Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_215
+    name: Madagascar Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_216
+    name: Madagascar Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_217
+    name: Madagascar Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_218
+    name: Madagascar Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_219
+    name: Madagascar Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_220
+    name: Madagascar Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_221
+    name: Madagascar Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_222
+    name: Madagascar Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_223
+    name: Madagascar Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_224
+    name: Madagascar Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_225
+    name: Madagascar Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_226
+    name: Madagascar Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_227
+    name: Madagascar Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_228
+    name: Madagascar Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_229
+    name: Madagascar Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_230
+    name: Madagascar Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_231
+    name: Madagascar Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_232
+    name: Madagascar Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_233
+    name: Madagascar Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_234
+    name: Madagascar Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_235
+    name: Madagascar Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_236
+    name: Madagascar Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_237
+    name: Madagascar Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_238
+    name: Madagascar Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_239
+    name: Madagascar Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_240
+    name: Madagascar Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_241
+    name: Madagascar Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_242
+    name: Madagascar Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_243
+    name: Madagascar Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_244
+    name: Madagascar Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_245
+    name: Madagascar Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_246
+    name: Madagascar Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_247
+    name: Madagascar Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_248
+    name: Madagascar Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_249
+    name: Madagascar Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_250
+    name: Madagascar Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_251
+    name: Madagascar Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_mg_252
+    name: Madagascar Skill 252
+    status: ACTIVE_SCAFFOLD

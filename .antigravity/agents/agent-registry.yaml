@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-madagascar-canal-and-intervention-historian
-  name: Madagascar Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-madagascar-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_mg_001
+    name: Madagascar Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_002
+    name: Madagascar Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_003
+    name: Madagascar Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_004
+    name: Madagascar Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_005
+    name: Madagascar Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_006
+    name: Madagascar Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_007
+    name: Madagascar Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_008
+    name: Madagascar Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_009
+    name: Madagascar Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_010
+    name: Madagascar Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_011
+    name: Madagascar Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_012
+    name: Madagascar Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_013
+    name: Madagascar Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_014
+    name: Madagascar Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_015
+    name: Madagascar Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_016
+    name: Madagascar Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_017
+    name: Madagascar Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_018
+    name: Madagascar Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_019
+    name: Madagascar Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_020
+    name: Madagascar Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_021
+    name: Madagascar Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_022
+    name: Madagascar Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_023
+    name: Madagascar Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_024
+    name: Madagascar Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_025
+    name: Madagascar Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_026
+    name: Madagascar Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_027
+    name: Madagascar Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_028
+    name: Madagascar Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_029
+    name: Madagascar Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_030
+    name: Madagascar Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_031
+    name: Madagascar Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_032
+    name: Madagascar Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_033
+    name: Madagascar Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_034
+    name: Madagascar Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_035
+    name: Madagascar Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_036
+    name: Madagascar Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_037
+    name: Madagascar Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_038
+    name: Madagascar Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_039
+    name: Madagascar Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_040
+    name: Madagascar Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_041
+    name: Madagascar Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_042
+    name: Madagascar Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_043
+    name: Madagascar Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_044
+    name: Madagascar Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_045
+    name: Madagascar Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_046
+    name: Madagascar Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_047
+    name: Madagascar Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_048
+    name: Madagascar Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_049
+    name: Madagascar Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_050
+    name: Madagascar Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_051
+    name: Madagascar Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_052
+    name: Madagascar Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_053
+    name: Madagascar Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_054
+    name: Madagascar Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_055
+    name: Madagascar Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_056
+    name: Madagascar Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_057
+    name: Madagascar Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_058
+    name: Madagascar Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_059
+    name: Madagascar Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_060
+    name: Madagascar Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_061
+    name: Madagascar Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_062
+    name: Madagascar Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_063
+    name: Madagascar Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_064
+    name: Madagascar Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_065
+    name: Madagascar Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_066
+    name: Madagascar Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_067
+    name: Madagascar Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_068
+    name: Madagascar Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_069
+    name: Madagascar Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_070
+    name: Madagascar Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_071
+    name: Madagascar Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_072
+    name: Madagascar Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_073
+    name: Madagascar Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_074
+    name: Madagascar Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_075
+    name: Madagascar Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_076
+    name: Madagascar Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_077
+    name: Madagascar Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_078
+    name: Madagascar Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_079
+    name: Madagascar Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_080
+    name: Madagascar Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_081
+    name: Madagascar Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_082
+    name: Madagascar Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_083
+    name: Madagascar Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_084
+    name: Madagascar Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_085
+    name: Madagascar Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_086
+    name: Madagascar Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_087
+    name: Madagascar Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_088
+    name: Madagascar Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_089
+    name: Madagascar Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_090
+    name: Madagascar Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_091
+    name: Madagascar Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_092
+    name: Madagascar Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_093
+    name: Madagascar Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_094
+    name: Madagascar Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_095
+    name: Madagascar Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_096
+    name: Madagascar Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_097
+    name: Madagascar Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_098
+    name: Madagascar Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_099
+    name: Madagascar Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_100
+    name: Madagascar Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_101
+    name: Madagascar Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_102
+    name: Madagascar Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_103
+    name: Madagascar Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_104
+    name: Madagascar Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_105
+    name: Madagascar Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_106
+    name: Madagascar Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_107
+    name: Madagascar Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_108
+    name: Madagascar Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_109
+    name: Madagascar Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_110
+    name: Madagascar Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_111
+    name: Madagascar Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_112
+    name: Madagascar Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_113
+    name: Madagascar Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_114
+    name: Madagascar Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_115
+    name: Madagascar Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_116
+    name: Madagascar Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_117
+    name: Madagascar Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_118
+    name: Madagascar Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_119
+    name: Madagascar Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_120
+    name: Madagascar Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_121
+    name: Madagascar Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_122
+    name: Madagascar Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_123
+    name: Madagascar Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_124
+    name: Madagascar Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_125
+    name: Madagascar Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_126
+    name: Madagascar Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_127
+    name: Madagascar Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_128
+    name: Madagascar Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_129
+    name: Madagascar Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_130
+    name: Madagascar Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_131
+    name: Madagascar Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_132
+    name: Madagascar Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_133
+    name: Madagascar Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_134
+    name: Madagascar Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_135
+    name: Madagascar Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_136
+    name: Madagascar Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_137
+    name: Madagascar Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_138
+    name: Madagascar Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_139
+    name: Madagascar Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_140
+    name: Madagascar Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_141
+    name: Madagascar Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_142
+    name: Madagascar Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_143
+    name: Madagascar Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_144
+    name: Madagascar Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_145
+    name: Madagascar Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_146
+    name: Madagascar Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_147
+    name: Madagascar Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_148
+    name: Madagascar Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_149
+    name: Madagascar Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_150
+    name: Madagascar Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_151
+    name: Madagascar Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_152
+    name: Madagascar Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_153
+    name: Madagascar Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_154
+    name: Madagascar Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_155
+    name: Madagascar Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_156
+    name: Madagascar Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_157
+    name: Madagascar Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_158
+    name: Madagascar Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_159
+    name: Madagascar Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_160
+    name: Madagascar Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_161
+    name: Madagascar Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_162
+    name: Madagascar Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_163
+    name: Madagascar Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_164
+    name: Madagascar Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_165
+    name: Madagascar Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_166
+    name: Madagascar Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_167
+    name: Madagascar Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_168
+    name: Madagascar Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_169
+    name: Madagascar Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_mg_170
+    name: Madagascar Agent 170
+    status: ACTIVE_SCAFFOLD

@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/madagascar",
+  "final_url": "https://data.worldbank.org/country/madagascar",
+  "title": "World Bank Madagascar",
+  "fetched_at": "2026-11-23T06:39:05.510116Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44515,
+  "sha256": "f5228546143c50b99c5a6fdf5d60965414bc688dc5b7c91d6849118b8e1bce8d",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

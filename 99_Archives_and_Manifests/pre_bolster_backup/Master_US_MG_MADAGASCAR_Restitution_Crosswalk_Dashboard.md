@@ -3,7 +3,7 @@
 **Country Key:** US_MG_MADAGASCAR
 **ISO Code:** MG/MDG
 **Historical Arc:** 1960-2026
-**Restitution Pool:** TBD (valuation pending)
+**Restitution Pool:** $15.00B
 **Instruments:** 12
 
 ## Primary Judgment

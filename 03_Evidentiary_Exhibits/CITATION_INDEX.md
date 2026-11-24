@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
 
 - CIT-0001: https://www.foia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/FOIA.gov.html` | `bdef421240c1c41e...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://archive.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Internet_Archive.html` | `329de0d85f690421...` | PENDING_LEGAL_REVIEW
@@ -18,4 +18,3 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0014: https://www.archives.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_National_Archives.html` | `b1be5889069b829d...` | PENDING_LEGAL_REVIEW
 - CIT-0015: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0016: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `301ddf0699ead781...` | PENDING_LEGAL_REVIEW
-- CIT-0017: https://www.archives-nationales.culture.gouv.fr/ | `03_Evidentiary_Exhibits/Immutable_Ledger/French_National_Archives_public_portal.html` | `e7cf8c9c80bac0ba...` | PENDING_LEGAL_REVIEW
